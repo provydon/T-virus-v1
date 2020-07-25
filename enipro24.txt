@@ -1,0 +1,5 @@
+46.101.61.52/phpmyadmin
+online mysql password: @Chigisoft100$
+phpmyadmin htaccess username: chigisoft
+phpmyadmin htaccess password: chigi$oft100
+delete this messages after you collect the password

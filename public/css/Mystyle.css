@@ -1,0 +1,282 @@
+<<<<<<< HEAD
+p {
+    font-size: 15px !important;
+}
+
+=======
+>>>>>>> 63a05dfff1ad5bbd6fddebd6636c02748b1b34e8
+.schoo_logo {
+    height: 150px;
+    width: 150px;
+}
+
+.mr-auto {
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+#spin {
+    font-size: 30px;
+}
+
+.calculate-btn {
+    margin-bottom: 35px;
+}
+
+.creator2 {
+    font-size: 10px;
+}
+
+.target-cgpa-card {
+    padding-bottom: 70px;
+}
+
+.target-intro {
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.targeting {
+    font-weight: 700;
+}
+
+.main-menu>li.active>a,
+.main-menu>li>a:hover {
+    background-color: #f3f3f3;
+}
+
+.page_name {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+.all-targets-div {
+    margin-top: 30px;
+}
+
+.target_value {
+    font-size: 20px;
+}
+
+.courses-card {
+    padding: 30px;
+    padding-top: 0;
+}
+
+.courses-table {
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.courses-table1 {
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.data-row {
+    margin-top: 20px;
+}
+
+.course_edit {
+    display: none;
+}
+
+.c-save-btn {
+    display: none;
+}
+
+.hint-link {
+    float: right;
+}
+
+.delete-target {
+    float: right;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.table {
+    font-size: small;
+}
+
+.edit {
+    color: #ffc107a6;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.delete {
+    color: #f44336a3;
+    cursor: pointer;
+}
+
+.table_edit {
+    display: none;
+}
+
+.edit-options {
+    display: none;
+    margin: 0 5px;
+}
+
+.user-photo {
+    height: 40px;
+    border-radius: 50%;
+    width: auto;
+}
+
+.main-menu>li.menu>a>i {
+    color: #4CAF50;
+}
+
+.main-menu>li.menu2>a>i {
+    color: #F44336;
+}
+
+<<<<<<< HEAD
+.tooltips {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltips .tooltiptext {
+    visibility: hidden;
+    width: 140px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -75px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltips .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltips:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.lcb-navigation a span {
+    width: 100%
+}
+
+.lcb-navigation a[data-ma-block="#l-register"] {
+    width: 95px
+}
+
+.lcb-navigation a[data-ma-block="#l-forget-password"] {
+    width: 147px
+}
+
+.lcb-navigation a[data-ma-block="#l-login"] {
+    width: 85px
+}
+
+.w-img {
+    height: 30px;
+    width: auto;
+}
+
+.w-img-2 {
+    height: 20px;
+    width: auto;
+}
+
+.btn-w {
+    bottom: 10%;
+    position: fixed;
+    right: 5%;
+    border-radius: 50%;
+    padding: 18px 17px;
+    z-index: 2000;
+}
+
+.btn-w-2 {
+    border-radius: 50%;
+    padding: 10px 9px;
+}
+
+.btn-w {
+    right: 2%;
+}
+
+.bg-green {
+    background: rgba(38, 211, 102, 1);
+}
+
+#bulk_email_response {
+    font-weight: 700;
+}
+
+=======
+>>>>>>> 63a05dfff1ad5bbd6fddebd6636c02748b1b34e8
+
+/*Responsive Design*/
+
+@media (max-width: 990px) {
+    .cgpa.form-control:not(.fc-alt) {
+        background-image: linear-gradient(45deg, transparent 50%, grey 50%), linear-gradient(135deg, grey 50%, transparent 50%);
+        background-position: calc(100% - 20px) calc(1em + 2px), calc(100% - 15px) calc(1em + 2px), calc(100% - 2.5em) 0.5em;
+        background-size: 5px 5px, 5px 5px, 1px 1.5em;
+        background-repeat: no-repeat;
+    }
+    .creator {
+        font-size: 10px;
+    }
+    .creator2 {
+        font-size: 8px;
+    }
+    .target-cgpa-card {
+        padding-bottom: 1px;
+    }
+    .page_name {
+        font-size: 20px;
+        font-weight: 700;
+        margin: 20px 0;
+    }
+}
+
+<<<<<<< HEAD
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .w-img {
+        height: 25px;
+        width: auto;
+    }
+    .btn-w {
+        right: 2%;
+        bottom: 5%;
+        padding: 13px 12px;
+    }
+}
+
+=======
+>>>>>>> 63a05dfff1ad5bbd6fddebd6636c02748b1b34e8
+
+/* 
+#calculator-form {
+    display: none;
+} */

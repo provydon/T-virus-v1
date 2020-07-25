@@ -1,0 +1,8 @@
+bo simple just import annabel.sql as a new database in ur phpmyadmin,
+ the run the app, signup and set your school, facultyand department, 
+after whc it will take you to the 
+subscriptions page @subscriptions.blade.php.
+
+then open the file in your editor and you'll see me retriving plans 
+and each of thier details like price , duration etc.
+use these infos to hook it up with Rave.
